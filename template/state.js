@@ -1,4 +1,6 @@
-const initialState = {
+/* eslint-disable */
+
+{
   books: [{
     author: 'George R. R. Martin',
     cover: 'https://upload.wikimedia.org/wikipedia/en/9/93/AGameOfThrones.jpg',
