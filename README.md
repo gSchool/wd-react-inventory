@@ -1,3 +1,21 @@
+# DEPRECATED
+
+This repository has moved to https://github.com/gschool/react-drills
+
+```
+
+
+
+
+
+
+
+
+
+
+
+```
+
 # React Inventory
 
 For this assignment, your task is to build a React inventory app that tracks best selling books. Start by forking and cloning this repository to your development environment. Then, using the provided [template files](template) plus a stateful `App` component class and a stateless `Book` component class, create a React inventory application that increments a book's stock.
